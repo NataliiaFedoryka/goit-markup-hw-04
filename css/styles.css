@@ -348,13 +348,7 @@ row-gap: 48px;
 width: calc((100% - 48px)/3);
 transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-  .our-portf-img {
-   
-  }
-  
-    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  
-  .banking-item:hover{
+  .our-portfolio-item:hover{
     transform: translateY(0%);
   }
   .sect-our-portfolio-title {
@@ -478,8 +472,7 @@ margin-bottom: 16px;
 
   }
   
-.social-list-link 
-{
+.social-list-link {
   fill: #F4F4FD;
   display: flex;
   justify-content: center;
@@ -489,7 +482,6 @@ margin-bottom: 16px;
   width: 40px;
   height: 40px;
   transition: background-color 250ms cubic-besier(0,4 0, 0,2, 1);
-
 }
 .social-list-link:hover,
 .social-list-link:focus {
