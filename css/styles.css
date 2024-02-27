@@ -414,12 +414,14 @@ color:#434455  ;
   .container-ground {
  display: flex;
  align-items: baseline;
- margin-bottom: 100px;
+
+ 
   }
   .logo-text {
  display: table-column;
  align-items: center;
  justify-content: center;
+ margin-right: 120px;
   }
   .ground-logo {
     display: inline-block;
