@@ -411,7 +411,7 @@ color:#434455  ;
     background-color: #2E2F42;
     
   }
-  .logo-part-ground {
+  .container-ground {
  display: flex;
  align-items: baseline;
  margin-bottom: 100px;
